@@ -1,0 +1,6 @@
+# INF-122
+Nombre: SHADEL MARIANA VALERIANO RIOS
+
+Materia: INF - 122
+
+Color favorito: #FFFFFF
